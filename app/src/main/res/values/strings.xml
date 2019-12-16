@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Teams</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="deleteTeam">Estás seguro de que lo quieres borra?</string>
+    <string name="titleDelteTeam">Borrado</string>
+    <string name="etAccept">Accept</string>
+    <string name="etCancel">Cancel</string>
+    <string name="etTeamName">Team name</string>
+    <string name="etTeamCapacity">Capacity</string>
+    <string name="etTeamStadium">Stadium</string>
+    <string name="etTeamCity">City</string>
+    <string name="etPlayerName">Name</string>
+    <string name="etPlayerLastName">Lastname</string>
+</resources>
